@@ -7,7 +7,7 @@ Check out our [story and analysis here](http://www.wnyc.org/story/most-new-york-
 
 ### Files
 * `waterProgramsInSearch.csv` includes all schools and programs listed in the searchable database by the NYC Department of Education
-* `schools201516.csv` list of active New York City public schools in 2015-16 from the [New York City Department of Education](http://schools.nyc.gov/Offices/EnterpriseOperations/DIIT/OOD/default.htm)
+* `schools201516.csv` is a list of active New York City public schools in 2015-16 from the [New York City Department of Education](http://schools.nyc.gov/Offices/EnterpriseOperations/DIIT/OOD/default.htm)
 * `waterProgramsInSearchFiltered.csv` is a a subset of `waterProgramsInSearch.csv`. It includes all schools and programs whose building code is listed in `schools201516.csv` and do not only have Pre-K classes according to the `Grades` field in `schools201516.csv`
 
 ### Fields in `waterProgramsInSearch.csv` and `waterProgramsInSearchFiltered.csv`
