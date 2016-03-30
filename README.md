@@ -3,7 +3,7 @@ Snapshot of New York City public school water test results, retrieved on March 2
 
 Data is from the [New York City Department of Education](http://schools.nyc.gov/AboutUs/schools/watersafety) which is updating its database as results from 2016 water tests are added. 
 
-Check out our [story and analysis here](www.wnyc.org/story/most-new-york-city-schools-have-not-tested-their-water-decade/). 
+Check out our [story and analysis here](http://wnyc.org/story/most-new-york-city-schools-have-not-tested-their-water-decade/). 
 
 ### Files
 * `waterProgramsInSearch.csv` includes all schools and programs listed in the searchable database by the NYC Department of Education
