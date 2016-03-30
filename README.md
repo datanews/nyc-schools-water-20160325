@@ -5,15 +5,15 @@ Data is from the [New York City Department of Education](http://schools.nyc.gov/
 Check out our [story and analysis here](www.wnyc.org/story/most-new-york-city-schools-have-not-tested-their-water-decade/). 
 
 ### Fields
-*`location`: name of school
-*`dbn`: school's District Borough Number, school code
-*`buildingName`: name of building
-*`buildingCode`: building code
-*`address`: address
-*`waterTesting`: whether water testing was performed
-*`elevatedResults`: whether any samples from last test had elevated lead levels
-*`healthDptProtocolImplemented`: whether the health department protocol was implemented
-*`dateLastTested`: year the water was last tested
-*`elevatedSamples`: number of elevated samples
-*`totalSamples`: total number of samples
-*`note`: note about water testing
+* `location`: name of school
+* `dbn`: school's District Borough Number, school code
+* `buildingName`: name of building
+* `buildingCode`: building code
+* `address`: address
+* `waterTesting`: whether water testing was performed
+* `elevatedResults`: whether any samples from last test had elevated lead levels
+* `healthDptProtocolImplemented`: whether the health department protocol was implemented
+* `dateLastTested`: year the water was last tested
+* `elevatedSamples`: number of elevated samples
+* `totalSamples`: total number of samples
+* `note`: note about water testing
